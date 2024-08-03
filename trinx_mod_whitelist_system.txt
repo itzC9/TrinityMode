@@ -1,0 +1,22 @@
+ModIDS = {
+    [555710383] = true, -- SympingForArii
+    [1708886407] = true, -- losercouncil
+    [2049346249] = true, -- losersalt
+    [11212285] = true, -- scarface
+    [430325969] = true, -- KasysProperty
+    [67837292] = true,
+    [54033163] = true, -- K9
+    [1823901606] = true, -- sasd
+    [969017656] = true, -- maci
+    [25169814] = true,
+    [112011874] = true,
+    [814288760] = true,
+    [63214984] = true,
+    [950457] = true,
+    [1084345163] = true, --sister?
+    [17537] = true,
+    [2621280490] = true, -- LienxCedie
+    [4688179501] = true, -- 0946is
+}
+
+return ModIDS
